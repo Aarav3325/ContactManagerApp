@@ -23,8 +23,7 @@ public class Contact {
         this.id = id;
     }
 
-    public Contact() {
-    }
+
 
     public String getName() {
         return name;
